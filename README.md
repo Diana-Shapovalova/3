@@ -27,8 +27,6 @@ weather_app/
    pip install Flask requests pandas plotly dash dash-leaflet
    ```
 
-3. Замените `API_KEY` в файле `weather_api.py` на ваш действительный ключ API от AccuWeather.
-
 ## Запуск приложения
 
 Запустите приложение, выполнив следующую команду:
